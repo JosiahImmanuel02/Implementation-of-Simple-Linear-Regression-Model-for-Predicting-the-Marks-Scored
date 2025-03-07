@@ -1,5 +1,8 @@
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
+## NAME:JOSIAH IMMANUEL A
+## REGNO:212223043003
+
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
@@ -8,10 +11,12 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import the standard Libraries.
+2.Set variables for assigning dataset values.
+3.Import linear regression from sklearn.
+4.Assign the points for representing in the graph.
+5.Predict the regression for marks by using the representation of the graph.
+6.Compare the graphs and hence we obtained the linear regression for the given datas.
 
 ## Program:
 ```
@@ -62,7 +67,40 @@ print("Root Mean Square Error = ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
+## HEAD VALUES
+
+![Screenshot 2025-03-07 090534](https://github.com/user-attachments/assets/ca7d6c7e-b918-4d6d-97b3-7b3ecccc0ce9)
+
+
+## TAIL VALUES
+
+![Screenshot 2025-03-07 090706](https://github.com/user-attachments/assets/defc45a4-f9c0-44d2-b8ac-a367bdd19bcf)
+
+
+## COMPARE DATASET
+
+![Screenshot 2025-03-07 090742](https://github.com/user-attachments/assets/1e1c584d-c1c6-449a-b8e5-1c86a7a1e007)
+
+
+## PREDICATION OF X AND Y VALUES 
+
+![Screenshot 2025-03-07 091938](https://github.com/user-attachments/assets/3034cb55-3909-4dcb-a49e-934b3355b731)
+
+
+## TRAINING SET
+
+![Screenshot 2025-03-07 090837](https://github.com/user-attachments/assets/0951291e-d4f2-4ed7-9395-3a07f85d07a3)
+
+
+## TESETING TEST
+
+![Screenshot 2025-03-07 090852](https://github.com/user-attachments/assets/13496d97-7d4d-4741-90d5-4e64a98abc5d)
+
+
+## MSE,MAE and RMSE
+
+![Screenshot 2025-03-07 090916](https://github.com/user-attachments/assets/b67c30d3-45ee-42ea-830b-dcf5aad33f20)
 
 
 ## Result:
